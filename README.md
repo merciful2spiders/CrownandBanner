@@ -175,3 +175,7 @@ the makings of a mod
 
 - `squadTickInterval`
   - Server ticks between squad movement updates. Default: `5`.
+## Requirements
+
+- Minecraft Java Edition 26.1.2
+- NeoForge 26.1.2.65-beta or compatible 26.1.2 NeoForge build
